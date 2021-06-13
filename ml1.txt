@@ -1,0 +1,20 @@
+supevised:----classification(yes or no)
+	      regression(output is in continous range)
+unsupervised----clustering
+
+
+
+
+3types of business problems
+1)classifiction---knn algorithm---used to predict the accuracy
+	       ---naive bayes algorithm
+2)regression--used to know the error-simple linear algorithm--
+3)clustering---kmeans algorithm
+
+
+algorithm is nothing but set of rules and regulations
+based on stastics.
+
+knn algorithm:--k nearest neighbor algorithm
+distance between two points
+simplest algorithm also known as lazy algorithm

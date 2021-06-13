@@ -1,0 +1,3 @@
+#converts string column into numbers
+from sklearn.preprocessing import LabelEncoder
+le=LabelEncoder()
